@@ -102,3 +102,4 @@ Tools Used
 - Excel (minimal usage)
 
 Dashboard Preview
+<img width="1375" height="771" alt="image" src="https://github.com/user-attachments/assets/c98fdcb2-ff22-4e75-b61c-2f80df694026" />
