@@ -1,23 +1,23 @@
 # US-EV-MARKET-SHARE-ANALYSIS
 
-Project Overview
+##Project Overview
 
 This project analyzes electriv vehicle (EV) adoption rates across the United States using vehicle regrestration data seperated by fuel type. The main objective of this project was to identify which states had the quickest/highest EV adoption rates, compare EV usage to traditional fuel vehciles, evaluate alternative fuels adoption rates, and to prvide any reccomendations for the future of EV infrastructuee investment.
 
 This analysis was completed using SQL for sata cleaning and transformation and Power Bi for data visualization and simple dashboard development.
 
 
-Business  Problem
+##Business  Problem
 
 A transportation research group requested an analysis of alternative fuel vheicle registrations across the U.S.A. The findings will be used by policymakers and transportation planners to give them a better understanding of the EV adoption trends, and can then prioritize future infrastrucute invesments accordingly.
 
-Key questions included:
+###Key questions included:
 - What percentage of vehicles in each state are EVs, PHEVs, HEVs, and gasoline vehicles?
 - Which states have the highest and lowest EV adoption rates?
 - Which alternative fuels are significant versus niche?
 - Where should future EV infrastrucute investments be prioritized?
 
-Dataset
+##Dataset
 The dataset contains vehicle regrestration counts by state for multiple fuel types including:
 - Electric Vehicles (EV)
 - Plug-In Hybrid Electric Vehicles (PHEV)
@@ -33,7 +33,7 @@ The dataset contains vehicle regrestration counts by state for multiple fuel typ
 
 *The District of Columbia was included because registration data was provided in the original dataset.
 
-Data Cleaning (SQL)
+##Data Cleaning (SQL)
 
 The Following cleaning steps were performed on the data:
 - Created a staging table to preserve the original dataset
@@ -45,9 +45,9 @@ The Following cleaning steps were performed on the data:
 - Verified data consistency prior to analysis
 
 
-Analysis Performed
+##Analysis Performed
 
-Market Share Calculations
+###Market Share Calculations
 Calculated:
 - Total registered vehicles by state
 - EV market share
@@ -73,9 +73,9 @@ Analyzed national market share for:
 - Ethanol/Flex Fuel (E85)
 - Hydrogen
 
-Dashboard
+##Dashboard
 
-The Power BI dashboard includes:
+###The Power BI dashboard includes:
 - U.S. EV adoption heat map
 - Top 5 EV adoption states
 - Bottom 5 EV adoption states
@@ -84,7 +84,7 @@ The Power BI dashboard includes:
 - KPI summary cards
 - Interactive state slicer
 
-Key Findings
+###Key Findings
 - California recorded the highest EV adoption rate at 3.41% of registered vehicles
 - The average EV adoption rate across all states was 0.90%
 - North Dakota and Mississippi recoreded the lowest EV adoption rates at 0.19%
@@ -92,15 +92,15 @@ Key Findings
 - e85 accounted for 87.77% of alternative fuel vehicle registrations among the alt fuels analyzed
 - Biodiesel represented 12.16% and Hydrogen accounted for only 0.07% indicating limited adoption.
 
-Recommendations
+##Recommendations
 1. The states of California, Texas, and Florida should all receive EV infrastructure investments as they all have the demand and potential to have larger increases in their EV adoption rates.
 2. The states of North Dakota, Mississippi, Wyoming are not great candidates for EV infrastructure investments as the demand and adoption for EV in these states are the lowest in the country.
 
-Tools Used
+##Tools Used
 - SQL (MYSQL)
 - Power BI
 - Excel (minimal usage)
 
-Dashboard Preview
+##Dashboard Preview
 <img width="1373" height="772" alt="image" src="https://github.com/user-attachments/assets/b6c6a168-7ab2-408e-b853-d322a5baef2f" />
 
