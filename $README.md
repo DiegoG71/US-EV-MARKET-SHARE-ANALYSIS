@@ -2,14 +2,14 @@
 
 ## Project Overview
 
-This project analyzes electriv vehicle (EV) adoption rates across the United States using vehicle regrestration data seperated by fuel type. The main objective of this project was to identify which states had the quickest/highest EV adoption rates, compare EV usage to traditional fuel vehciles, evaluate alternative fuels adoption rates, and to prvide any reccomendations for the future of EV infrastructuee investment.
+This project analyzes electric vehicle (EV) adoption rates across the United States using vehicle registration data seperated by fuel type. The main objective of this project was to identify which states had the quickest/highest EV adoption rates, compare EV usage to traditional fuel vehicles, evaluate alternative fuel adoption rates, and to prvide any reccomendations for the future of EV infrastructure investment.
 
-This analysis was completed using SQL for data cleaning and transformation and Power Bi for data visualization and simple dashboard development.
+This analysis was completed using SQL for data cleaning and transformation and Power BI for data visualization and dashboard development.
 
 
-## Business  Problem
+## Business Problem
 
-A transportation research group requested an analysis of alternative fuel vheicle registrations across the U.S.A. The findings will be used by policymakers and transportation planners to give them a better understanding of the EV adoption trends, and can then prioritize future infrastrucute invesments accordingly.
+A transportation research group requested an analysis of alternative fuel vehicle registrations across the U.S. The findings will be used by policymakers and transportation planners to give them a better understanding of the EV adoption trends, and can then prioritize future infrastructure investments accordingly.
 
 ### Key questions included:
 - What percentage of vehicles in each state are EVs, PHEVs, HEVs, and gasoline vehicles?
@@ -87,7 +87,7 @@ Analyzed national market share for:
 ### Key Findings
 - California recorded the highest EV adoption rate at 3.41% of registered vehicles
 - The average EV adoption rate across all states was 0.90%
-- North Dakota and Mississippi recoreded the lowest EV adoption rates at 0.19%
+- North Dakota and Mississippi recoreded the lowest EV adoption rates at 0.13%
 - Total EV registrations exceeded 3.56 million vehicles
 - e85 accounted for 87.77% of alternative fuel vehicle registrations among the alt fuels analyzed
 - Biodiesel represented 12.16% and Hydrogen accounted for only 0.07% indicating limited adoption.
