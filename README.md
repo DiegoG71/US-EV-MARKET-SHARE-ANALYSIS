@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This project analyzes electric vehicle (EV) adoption rates across the United States using vehicle registration data seperated by fuel type. The main objective of this project was to identify which states had the quickest/highest EV adoption rates, compare EV usage to traditional fuel vehicles, evaluate alternative fuel adoption rates, and to prvide any reccomendations for the future of EV infrastructure investment.
+This project analyzes electric vehicle (EV) adoption rates across the United States using vehicle registration data seperated by fuel type. The main objective of this project was to identify which states had the quickest/highest EV adoption rates, compare EV usage to traditional fuel vehicles, evaluate alternative fuel adoption rates, and to provide any reccomendations for the future of EV infrastructure investment.
 
 This analysis was completed using SQL for data cleaning and transformation and Power BI for data visualization and dashboard development.
 
