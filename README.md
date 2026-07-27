@@ -89,7 +89,7 @@ Analyzed national market share for:
 - The average EV adoption rate across all states was 0.90%
 - North Dakota and Mississippi recoreded the lowest EV adoption rates at 0.13%
 - Total EV registrations exceeded 3.56 million vehicles
-- e85 accounted for 87.77% of alternative fuel vehicle registrations among the alt fuels analyzed
+- E85 accounted for 87.77% of alternative fuel vehicle registrations among the alt fuels analyzed
 - Biodiesel represented 12.16% and Hydrogen accounted for only 0.07% indicating limited adoption.
 
 ## Recommendations
